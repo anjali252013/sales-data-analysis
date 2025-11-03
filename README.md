@@ -6,19 +6,19 @@ Analyze sales performance, customer behavior, and product trends to uncover acti
 
 ## Question 
 
--What is the total sales revenue and total number of orders?
+- What is the total sales revenue and total number of orders?
 
--Which occasions contribute most to sales?
+- Which occasions contribute most to sales?
 
--Which product categories perform best?
+- Which product categories perform best?
 
--Which month or day has the highest sales volume?
+- Which month or day has the highest sales volume?
 
--What is the average order delivery time?
+- What is the average order delivery time?
 
--Which cities generate the highest number of orders?
+- Which cities generate the highest number of orders?
 
--What is the average amount spent per customer?
+- What is the average amount spent per customer?
 
 
 -Dashboard Interaction <a href="https://github.com/anjali252013/sales-data-analysis/blob/main/Screenshot%20DASHBOARD.png">view Dashboard</a>
@@ -48,21 +48,21 @@ Analyze sales performance, customer behavior, and product trends to uncover acti
 
   ## Project Insight
   
-  -Total Orders: 1000
+  - Total Orders: 1000
 
-  -Total Revenue: ₹35,20,984
+  - Total Revenue: ₹35,20,984
 
-  -Average Customer Spend: ₹3520.98
+  - Average Customer Spend: ₹3520.98
 
-  -Average Delivery Time: 5.53 days
+  - Average Delivery Time: 5.53 days
 
-  -Top Performing Occasions: Raksha Bandhan and Valentine’s Day
+  - Top Performing Occasions: Raksha Bandhan and Valentine’s Day
 
-  -Top Product Categories: Soft Toys and Sweets
+  - Top Product Categories: Soft Toys and Sweets
 
-  -Peak Sales Month: August
+  - Peak Sales Month: August
 
-   -Highest Orders by City: Dibrugarh and Imphal
+   - Highest Orders by City: Dibrugarh and Imphal
 
   ## Conclusion
 

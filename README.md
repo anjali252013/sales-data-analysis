@@ -25,19 +25,19 @@ Analyze sales performance, customer behavior, and product trends to uncover acti
 
 ## Data Analysis Process
 
-1 Data Collection: 
+1.Data Collection: 
   Imported raw sales data into Excel.
 
-2 Data Cleaning: 
+2.Data Cleaning: 
   Removed duplicates, handled missing values, formatted dates, and standardized categories.
 
-3 Data Transformation:
+3.Data Transformation:
 
   Added calculated fields (Revenue, Average Spend, Delivery Time).
 
   Used pivot tables for dynamic aggregation.
 
- 4 Data Visualization:
+ 4.Data Visualization:
 
   Created interactive charts (bar, pie, line).
 

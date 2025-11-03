@@ -29,13 +29,13 @@ Analyze sales performance, customer behavior, and product trends to uncover acti
 
 -Data Cleaning: Removed duplicates, handled missing values, formatted dates, and standardized categories.
 
-# Data Transformation:
+### Data Transformation:
 
 -Added calculated fields (Revenue, Average Spend, Delivery Time).
 
 -Used pivot tables for dynamic aggregation.
 
-# Data Visualization:
+### Data Visualization:
 
 -Created interactive charts (bar, pie, line).
 

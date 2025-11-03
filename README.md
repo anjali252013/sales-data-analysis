@@ -21,7 +21,7 @@ Analyze sales performance, customer behavior, and product trends to uncover acti
 - What is the average amount spent per customer?
 
 
--Dashboard Interaction <a href="https://github.com/anjali252013/sales-data-analysis/blob/main/Screenshot%20DASHBOARD.png">view Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/anjali252013/sales-data-analysis/blob/main/Screenshot%20DASHBOARD.png">view Dashboard</a>
 
 ## Data Analysis Process
 

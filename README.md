@@ -5,21 +5,40 @@ Analyze sales performance, customer behavior, and product trends to uncover acti
 - <a href="https://github.com/anjali252013/sales-data-analysis/blob/main/sales%20data%20analysis.xlsx">Dataset</a>
 
 ## Question 
- 1. Total Revenue: Identify the overall revenue.
- 2. Average Order and Delivery Time: Evaluate the time taken for orders to be delivered.
- 3. Monthly Sales Performance: Examine how sales fluctuate across the months of 2023.
- 4. Top Products by Revenue: Determine which products are the top revenue generators.
- 5. Customer Spending Analysis: Understand how much customers are spending on
- average.
- 6. Sales Performance by Top 5 Product: Track the sales performance of top 5 products.
- 7. Top 10 Cities by Number of Orders: Find out which cities are placing the highest
- number of orders.
- 8. Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery
- times.
- 9. Revenue Comparison Between Occasions: Compare revenue generated across
- different occasions.
- 10. Product Popularity by Occasion: Identify which products are most popular during
- specific occasions
+
+-What is the total sales revenue and total number of orders?
+
+-Which occasions contribute most to sales?
+
+-Which product categories perform best?
+
+-Which month or day has the highest sales volume?
+
+-What is the average order delivery time?
+
+-Which cities generate the highest number of orders?
+
+-What is the average amount spent per customer?
+
+
 -Dashboard Interaction <a href="https://github.com/anjali252013/sales-data-analysis/blob/main/Screenshot%20DASHBOARD.png">view Dashboard</a>
+
+## process
+
+-Data Collection: Imported raw sales data into Excel.
+
+-Data Cleaning: Removed duplicates, handled missing values, formatted dates, and standardized categories.
+
+# Data Transformation:
+
+-Added calculated fields (Revenue, Average Spend, Delivery Time).
+
+-Used pivot tables for dynamic aggregation.
+
+# Data Visualization:
+
+-Created interactive charts (bar, pie, line).
+
+-Added slicers for filters (Occasion, Month, City, Category).
 
 

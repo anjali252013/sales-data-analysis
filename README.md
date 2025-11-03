@@ -4,7 +4,7 @@ Analyze sales performance, customer behavior, and product trends to uncover acti
 ## Dataset used
 - <a href="https://github.com/anjali252013/sales-data-analysis/blob/main/sales%20data%20analysis.xlsx">Dataset</a>
 
-## Question 
+## Business Questions Answered
 
 - What is the total sales revenue and total number of orders?
 

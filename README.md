@@ -23,22 +23,52 @@ Analyze sales performance, customer behavior, and product trends to uncover acti
 
 -Dashboard Interaction <a href="https://github.com/anjali252013/sales-data-analysis/blob/main/Screenshot%20DASHBOARD.png">view Dashboard</a>
 
-## process
+## Data Analysis Process
 
--Data Collection: Imported raw sales data into Excel.
+1 Data Collection: 
+  Imported raw sales data into Excel.
 
--Data Cleaning: Removed duplicates, handled missing values, formatted dates, and standardized categories.
+2 Data Cleaning: 
+  Removed duplicates, handled missing values, formatted dates, and standardized categories.
 
-### Data Transformation:
+3 Data Transformation:
 
--Added calculated fields (Revenue, Average Spend, Delivery Time).
+  Added calculated fields (Revenue, Average Spend, Delivery Time).
 
--Used pivot tables for dynamic aggregation.
+  Used pivot tables for dynamic aggregation.
 
-### Data Visualization:
+ 4 Data Visualization:
 
--Created interactive charts (bar, pie, line).
+  Created interactive charts (bar, pie, line).
 
--Added slicers for filters (Occasion, Month, City, Category).
+  Added slicers for filters (Occasion, Month, City, Category).
+
+  ## Dashboard
+  <img width="1316" height="605" alt="Screenshot DASHBOARD" src="https://github.com/user-attachments/assets/60deae97-762b-4625-ad4b-fbd6b095a668" />
+
+  ## Project Insight
+  
+  -Total Orders: 1000
+
+  -Total Revenue: ₹35,20,984
+
+  -Average Customer Spend: ₹3520.98
+
+  -Average Delivery Time: 5.53 days
+
+  -Top Performing Occasions: Raksha Bandhan and Valentine’s Day
+
+  -Top Product Categories: Soft Toys and Sweets
+
+  -Peak Sales Month: August
+
+   -Highest Orders by City: Dibrugarh and Imphal
+
+  ## Conclusion
+
+  This project demonstrates how Excel can be used for end-to-end data analytics — from cleaning and organizing raw data to building interactive dashboards that provide meaningful    
+  business insights
+  
+
 
 

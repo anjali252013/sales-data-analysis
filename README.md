@@ -44,7 +44,10 @@ Analyze sales performance, customer behavior, and product trends to uncover acti
   Added slicers for filters (Occasion, Month, City, Category).
 
   ## Dashboard
-  <img width="1316" height="605" alt="Screenshot DASHBOARD" src="https://github.com/user-attachments/assets/60deae97-762b-4625-ad4b-fbd6b095a668" />
+ <img width="1327" height="603" alt="dashboard" src="https://github.com/user-attachments/assets/5943d360-52b7-4fe9-86c8-7d53a4463192" />
+ <img width="1366" height="768" alt="Screenshot SALES OVERVIEW" src="https://github.com/user-attachments/assets/a214d8c4-c2e1-4599-8149-0d6f0cac1a8b" />
+
+
 
   ## Project Insight
   

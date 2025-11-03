@@ -1,2 +1,3 @@
-# sales-data-analysis
-Developed an interactive Sales Analysis Dashboard in Excel to explore sales trends, customer behavior, and product performance. Used Power Query for data cleaning and transformation, Pivot Tables &amp; Charts for analysis, and Excel formulas to automate insights
+#Sales Data Analysis Dashboard(Interactive Dashboard creation using excel)
+##Project Objective
+Analyze sales performance, customer behavior, and product trends to uncover actionable business insights. Using Excel’s data analytics and visualization features, this project aims to help businesses make data-driven decisions that improve sales strategy, order management, and customer satisfaction.

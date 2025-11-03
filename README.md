@@ -20,4 +20,6 @@ Analyze sales performance, customer behavior, and product trends to uncover acti
  different occasions.
  10. Product Popularity by Occasion: Identify which products are most popular during
  specific occasions
+-Dashboard Interaction <a href="https://github.com/anjali252013/sales-data-analysis/blob/main/Screenshot%20DASHBOARD.png">view Dashboard</a>
+
 
